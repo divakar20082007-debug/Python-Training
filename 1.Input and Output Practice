@@ -1,0 +1,11 @@
+a=int(input())
+print(a)
+b=float(input())
+print(b)
+c=(input())
+c=c[0]
+print(c)
+d=int(input())
+print(d)
+e=float(input())
+print(e)
